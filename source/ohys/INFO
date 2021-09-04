@@ -1,0 +1,10 @@
+{
+"name": "Ohys-Raws",
+"displayname": "Ohys-Raws",
+"description": "Korean Release Group",
+"version": "1.1",
+"site": "https://ohys.nl/",
+"module": "search.php",
+"type": "search",
+"class": "SynoDLMSearchOhys"
+}
